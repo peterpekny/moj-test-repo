@@ -1,0 +1,1 @@
+print('toto je v main')
